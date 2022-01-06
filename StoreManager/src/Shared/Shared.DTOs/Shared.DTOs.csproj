@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>StoreManager.Shared.DTOs</RootNamespace>
+        <AssemblyName>StoreManager.Shared.DTOs</AssemblyName>
+    </PropertyGroup>
+</Project>
